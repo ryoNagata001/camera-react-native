@@ -5,7 +5,7 @@ import { StyleSheet, Text, View, Button } from 'react-native';
 export const Home: React.FC = () => {
     return (
         <View style={styles.container}>
-            <Text>Open up App.tsx to start working on your app!</Text>
+            <Text>Camera App</Text>
 
             <StatusBar style="auto" />
         </View>
